@@ -14,5 +14,9 @@
 
 | input | output |
 |-------|--------|
-|   aab.a. \* .aab.+\*.ba.1+. aababbb   |    6     |
-| bba.ab.+\*b..\* ababba  |   6   |
+|  aab.a.\*.aab.+\*.ba.1+.
+
+aababbb   |    6     |
+| bba.ab.+\*b..\*
+
+ababba  |   6   |
